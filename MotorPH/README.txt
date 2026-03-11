@@ -1,7 +1,7 @@
 TEAM DETAILS:
 Group 25
 Francesca Diane Tan
-Francesca Angelica Catayas
+Francesca Angelica Catayas did not contribute in Milestone 2, difficult to reach, unresponsive
 -----------------------------------------------------------------------
 
 PROGRAM DETAILS:
@@ -28,3 +28,4 @@ PROGRAM DETAILS:
 ---------------------------------------------------------------------------
 
 PROJECT PLAN: https://docs.google.com/spreadsheets/d/1eC1D3OBSizcpTTLOCFsb8p_LYWgPdX0fczCAZk2ayMk/edit?usp=sharing
+
