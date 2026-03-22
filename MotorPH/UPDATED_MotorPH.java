@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public class ------- {
+public class UPDATED_MotorPH {
 
     public static void main(String[] args) throws IOException {
 
