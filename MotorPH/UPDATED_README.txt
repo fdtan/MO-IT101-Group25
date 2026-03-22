@@ -1,3 +1,7 @@
+>overwrited MotorPH.java with the update based on mentor's feedback
+
+program details:
+
 >employees.csv and attendance.csv are read using BufferedReader and FileReader
 
 >Attendance records are loaded once into a HashMap organized by employee number, eliminating redundant file reads
